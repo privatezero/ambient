@@ -20,4 +20,4 @@ flac --best --keep-foreign-metadata --preserve-modtime --verify input.wav
 ## FLAC embed metadata example commands
 `metaflac --import-picture-from="13||||/Users/weevz/Desktop/HarlemRain.jpg" /Users/weevz/Desktop/HarlemRain.flac`
 
-`metaflac --set-tag=SOURCEMEDIA="A=ANALOGUE,M=stereo,T=Sony TC-D5 PROII; 1 7/8 ips; Compact Cassette" --set-tag=LOCATION="+40.81013-073.94758" --set-tag=DATE="2017-03-18 (recorded)" --set-tag=LICENSE="CC BY 4.0" --import-picture-from="13||||/input.jpg" input.flac`
+`metaflac --set-tag=SOURCEMEDIA="A=ANALOGUE,M=stereo,T=Sony TC-D5 PROII; 1 7/8 ips; Compact Cassette" --set-tag=LOCATION="+40.81013-073.94758" --set-tag=DATE="2017-03-18 (recorded)" --set-tag=LICENSE="CC BY 4.0 Attribution : Andrew Weaver" --import-picture-from="13||||/input.jpg" input.flac`
