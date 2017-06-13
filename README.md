@@ -1,7 +1,7 @@
 # Workflow
 
 - Make Recording
-- Digitize (audiorecorder, bext, 96/24)
+- Digitize (audiorecorder,96/24)
 - Make FLAC (embed metadata and location picture/map)
 - Make Opus
 - Upload to IA
