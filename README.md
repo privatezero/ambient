@@ -6,10 +6,8 @@
 - Make Opus
 - Upload to IA
 
-## Bext Coding History Example
-A=ANALOGUE,M=stereo,T=Sony TC-D5 PROII; 1 7/8 ips; Compact Cassette
-
-A=PCM,F=96000,W=24,M=stereo,T=Zoom; UAC-2; SN006082, A/D
+## Coding History Example
+A=ANALOGUE,M=stereo,T=Sony TC-D5 PROII; 1 7/8 ips; Compact Cassette; Recording; A=ANALOGUE,M=stereo,T=Akai GX-M50; SN50122-01257 7/8 ips; Compact Cassette; Playback; A=PCM,F=96000,W=24,M=stereo,T=Zoom; UAC-2; SN006082; AD; A=FLAC,F=96000,W=24,M=stereo,T=flac 1.3.2; Encoding
 
 ## Location metadata
 'LOCATION'  ISO 6709 (to five decimals, minus trailing slash) Example: +40.81013-073.94758
